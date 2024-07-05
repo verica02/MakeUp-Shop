@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MakeupShop.Models.UserMakeup>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 col-xs-6 border-primary mb-3 text-dark" id="myDiv">
+            <div class="card mb-3" style="max-width: 520px;">
+                <img class="card-img-top" src="~/images/@item.Makeup.Image" width="210px" height="300px" asp-append-version="true">
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.Makeup.Name</h5>
+                    <p class="card-text"><b>User: </b>@item.AppUser</p>
+                    
+                </div>
+            </div>
+
+            <div>
+                   <button class="btn btn-outline-secondary" onclick="removeDiv()">Delete</button>
+            </div>
+                
+            
+        </div>
+    }
+</div>
+
+<script>
+    function removeDiv() {
+        const divToRemove = document.getElementById('myDiv');
+        divToRemove.parentNode.removeChild(divToRemove);
+    }
+</script>
+

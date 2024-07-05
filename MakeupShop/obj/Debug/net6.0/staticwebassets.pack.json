@@ -1,0 +1,1369 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MakeupShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MakeupShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg",
+      "PackagePath": "staticwebassets\\images\\05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\0e078f5e-9fc8-4368-a86a-7d9e38a0b78c_product4.png",
+      "PackagePath": "staticwebassets\\images\\0e078f5e-9fc8-4368-a86a-7d9e38a0b78c_product4.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\1011cb67-5675-4c69-b7db-624e5c9263dc_360a48d8-3bc8-4c13-8b71-b46f69b3f1a9_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg",
+      "PackagePath": "staticwebassets\\images\\1011cb67-5675-4c69-b7db-624e5c9263dc_360a48d8-3bc8-4c13-8b71-b46f69b3f1a9_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\11a97bf8-641f-4878-9e0c-ffc3e806304c_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg",
+      "PackagePath": "staticwebassets\\images\\11a97bf8-641f-4878-9e0c-ffc3e806304c_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\1a1bcb7e-94e9-4a0b-a5cd-2630769684d3_brand4.jpg",
+      "PackagePath": "staticwebassets\\images\\1a1bcb7e-94e9-4a0b-a5cd-2630769684d3_brand4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\1c2932ea-ba5f-4f70-b898-67687aa2e105_68c32475-da05-4a75-9420-76f176ca912f_brand3.jpg",
+      "PackagePath": "staticwebassets\\images\\1c2932ea-ba5f-4f70-b898-67687aa2e105_68c32475-da05-4a75-9420-76f176ca912f_brand3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg",
+      "PackagePath": "staticwebassets\\images\\1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\22bba72b-3c2a-44b2-988f-30061b35163f_product4.png",
+      "PackagePath": "staticwebassets\\images\\22bba72b-3c2a-44b2-988f-30061b35163f_product4.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\34921ee2-0d8e-4f30-8daa-8df6ec41aca1_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg",
+      "PackagePath": "staticwebassets\\images\\34921ee2-0d8e-4f30-8daa-8df6ec41aca1_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\360a48d8-3bc8-4c13-8b71-b46f69b3f1a9_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg",
+      "PackagePath": "staticwebassets\\images\\360a48d8-3bc8-4c13-8b71-b46f69b3f1a9_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\4764d612-f2c6-4ca5-9d6d-5ef1e1f3c645_makeup1.JPG",
+      "PackagePath": "staticwebassets\\images\\4764d612-f2c6-4ca5-9d6d-5ef1e1f3c645_makeup1.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\51fdea9c-8dfd-47e1-bee0-0ab477b26a5f_makeup3.JPG",
+      "PackagePath": "staticwebassets\\images\\51fdea9c-8dfd-47e1-bee0-0ab477b26a5f_makeup3.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\66007898-c4f1-496c-84aa-63d0f21f2d3d_makeup5.JPG",
+      "PackagePath": "staticwebassets\\images\\66007898-c4f1-496c-84aa-63d0f21f2d3d_makeup5.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\68c32475-da05-4a75-9420-76f176ca912f_brand3.jpg",
+      "PackagePath": "staticwebassets\\images\\68c32475-da05-4a75-9420-76f176ca912f_brand3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\84888f96-c8c0-403d-9dfe-d4fef2525fe9_makeup6.JPG",
+      "PackagePath": "staticwebassets\\images\\84888f96-c8c0-403d-9dfe-d4fef2525fe9_makeup6.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\9db509e8-f925-482f-92ba-1abd4f37f8bd_product1.jpg",
+      "PackagePath": "staticwebassets\\images\\9db509e8-f925-482f-92ba-1abd4f37f8bd_product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\MAC COSMETICS_ONLINE BROSURA APRIL 2020.pdf",
+      "PackagePath": "staticwebassets\\images\\MAC COSMETICS_ONLINE BROSURA APRIL 2020.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\OIP_brand6.jfif",
+      "PackagePath": "staticwebassets\\images\\OIP_brand6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\Oriflame-Emblem_brand5.png",
+      "PackagePath": "staticwebassets\\images\\Oriflame-Emblem_brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\a604ac80-706e-4145-b560-784437245139_product2.jpg",
+      "PackagePath": "staticwebassets\\images\\a604ac80-706e-4145-b560-784437245139_product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\aa7da792-b717-4e71-a307-ff2eec488529_OIP_brand6.jfif",
+      "PackagePath": "staticwebassets\\images\\aa7da792-b717-4e71-a307-ff2eec488529_OIP_brand6.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\aec74c04-2f52-44cd-80b9-e16115464635_product1.jpg",
+      "PackagePath": "staticwebassets\\images\\aec74c04-2f52-44cd-80b9-e16115464635_product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\b691080f-b24a-4d7d-b982-3879d71ea490_Oriflame-Emblem_brand5.png",
+      "PackagePath": "staticwebassets\\images\\b691080f-b24a-4d7d-b982-3879d71ea490_Oriflame-Emblem_brand5.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\b86f8a1c-8fb4-47fb-bd84-2c835983be14_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg",
+      "PackagePath": "staticwebassets\\images\\b86f8a1c-8fb4-47fb-bd84-2c835983be14_05a72b59-c5ac-4aaa-baf3-e61f10b1275f_brand1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\background-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\background-image.jpg",
+      "PackagePath": "staticwebassets\\images\\background-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bbcc402f-786b-4a75-b56f-df32cf8e4054_makeup2.JPG",
+      "PackagePath": "staticwebassets\\images\\bbcc402f-786b-4a75-b56f-df32cf8e4054_makeup2.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-0.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-12.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-4.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-car-1.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-car-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-car-12.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-car-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-car-2.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-car-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-car-2.png",
+      "PackagePath": "staticwebassets\\images\\bcg-img-car-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-img-car-3.jpg",
+      "PackagePath": "staticwebassets\\images\\bcg-img-car-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-vid-12.mp4",
+      "PackagePath": "staticwebassets\\images\\bcg-vid-12.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-vid-3.mp4",
+      "PackagePath": "staticwebassets\\images\\bcg-vid-3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-vid-3.webm",
+      "PackagePath": "staticwebassets\\images\\bcg-vid-3.webm"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\bcg-vid-33.mp4",
+      "PackagePath": "staticwebassets\\images\\bcg-vid-33.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg",
+      "PackagePath": "staticwebassets\\images\\be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\be7f38fd-90f4-4816-a659-260976497433_product2.jpg",
+      "PackagePath": "staticwebassets\\images\\be7f38fd-90f4-4816-a659-260976497433_product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\c51d2680-499d-4cc1-ac68-53b48408a3eb_product8.jpg",
+      "PackagePath": "staticwebassets\\images\\c51d2680-499d-4cc1-ac68-53b48408a3eb_product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g1.xcf",
+      "PackagePath": "staticwebassets\\images\\carousel-g1.xcf"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g4.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\carousel-g6.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\catalog-maybelline-full-sku-online-2020..pdf",
+      "PackagePath": "staticwebassets\\images\\catalog-maybelline-full-sku-online-2020..pdf"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\d107c7bb-8c52-40e7-840f-7208f266272d_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg",
+      "PackagePath": "staticwebassets\\images\\d107c7bb-8c52-40e7-840f-7208f266272d_be5f1477-2b48-4383-8270-a2f009070f8b_1d2820b3-4090-46b7-b2be-1ecd0e0d48e6_brand2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\d66da190-a619-4216-8243-dbe79f1d1c14_1a1bcb7e-94e9-4a0b-a5cd-2630769684d3_brand4.jpg",
+      "PackagePath": "staticwebassets\\images\\d66da190-a619-4216-8243-dbe79f1d1c14_1a1bcb7e-94e9-4a0b-a5cd-2630769684d3_brand4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\d8ca1457-fe27-4b7b-8be3-847980c5d358_product6.png",
+      "PackagePath": "staticwebassets\\images\\d8ca1457-fe27-4b7b-8be3-847980c5d358_product6.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\dc22a70a-3375-4bbf-909d-b2389670bfca_product2.avif",
+      "PackagePath": "staticwebassets\\images\\dc22a70a-3375-4bbf-909d-b2389670bfca_product2.avif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\e7bf8a01-c184-4f18-a106-d1e723e41386_makeup4.JPG",
+      "PackagePath": "staticwebassets\\images\\e7bf8a01-c184-4f18-a106-d1e723e41386_makeup4.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\f28981b3-79c3-4296-ab13-cc8f24b9ebe3_makeup7.JPG",
+      "PackagePath": "staticwebassets\\images\\f28981b3-79c3-4296-ab13-cc8f24b9ebe3_makeup7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\ff79fa0d-f93f-41d3-aee3-9998b7ad7f69_product7.jpg",
+      "PackagePath": "staticwebassets\\images\\ff79fa0d-f93f-41d3-aee3-9998b7ad7f69_product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\middle-bcg-img12.avif",
+      "PackagePath": "staticwebassets\\images\\middle-bcg-img12.avif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\0",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\0(1)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\1-Sephora-Desktop-Online.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\1-Sephora-Desktop-Online.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\1-customGeneralInside.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\1-customGeneralInside.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\1-customScript.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\1-customScript.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\1-sephora-custom-theme.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\1-sephora-custom-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\10ad61344e68aed_complete.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\10ad61344e68aed_complete.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\2024-06-27-pme-bundle-b-site-mobile-global-top-banner-unrecognized-sc-image-only-us-can-final.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\2024-06-27-pme-bundle-b-site-mobile-global-top-banner-unrecognized-sc-image-only-us-can-final.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\4001230.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\4001230.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\7f85a56ba4.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\7f85a56ba4.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\95d85870-438e-42a9-86f3-75285d9af5b1.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\95d85870-438e-42a9-86f3-75285d9af5b1.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\AppMeasurement.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\AppMeasurement.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\AppMeasurement_Module_ActivityMap.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\AppMeasurement_Module_ActivityMap.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\CreditCard.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\CreditCard.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\FS9BD-W3YYU-T5EYF-DZEKW-5ERXU",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\Fenty_DiamondBomb(1).jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\Fenty_DiamondBomb(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\Fenty_DiamondBomb.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\Fenty_DiamondBomb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\Fenty_RihannaDiamondCollection(1).jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\Fenty_RihannaDiamondCollection(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\Fenty_RihannaDiamondCollection.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\Fenty_RihannaDiamondCollection.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC00db0a155b6f4ecca1aeedf674f063f1-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC00db0a155b6f4ecca1aeedf674f063f1-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC032f58046df04f4c99c64c26cf36eca7-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC032f58046df04f4c99c64c26cf36eca7-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC0c9dbb7ddb194febbb6b2c5b97b37caf-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC0c9dbb7ddb194febbb6b2c5b97b37caf-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC0cbf66369c55494faad0e969f91ce405-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC0cbf66369c55494faad0e969f91ce405-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC0e2147cae30b4e7191b541549a13ea7c-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC0e2147cae30b4e7191b541549a13ea7c-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC0f8f0560335c448caf6b83aad38dd915-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC0f8f0560335c448caf6b83aad38dd915-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC16f1c3f462bf4c7682ac71c02a457e5a-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC16f1c3f462bf4c7682ac71c02a457e5a-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC1eddd47dafd94dc98d033c8ed3704470-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC1eddd47dafd94dc98d033c8ed3704470-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC1fe93e1ab1864de28703f5c0dc70a27e-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC1fe93e1ab1864de28703f5c0dc70a27e-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC272628921c6d4588bec81cee1f3df863-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC272628921c6d4588bec81cee1f3df863-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC32de2f3cb39c42b3925e673a697cb98d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC32de2f3cb39c42b3925e673a697cb98d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC42982d02f5fa4b2284e5d498797868b6-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC42982d02f5fa4b2284e5d498797868b6-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC44768b8ed7ba4e9c9a7966c2ff834799-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC44768b8ed7ba4e9c9a7966c2ff834799-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC44d53335634b4a369415ef88909fb60d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC44d53335634b4a369415ef88909fb60d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC5b05846637ad49a385ccf0824c1be9bd-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC5b05846637ad49a385ccf0824c1be9bd-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC6616e3c1971e423fab3c8a46cdfcc645-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC6616e3c1971e423fab3c8a46cdfcc645-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC6bd42b6b8b7947f289d7a32a39a7d8d3-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC6bd42b6b8b7947f289d7a32a39a7d8d3-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC6c2b1f8c520f4721ad328f79e37975f2-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC6c2b1f8c520f4721ad328f79e37975f2-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC7539bb037c0340d481097a396949234c-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC7539bb037c0340d481097a396949234c-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC7aac821696e54936a6633aa5c39380d5-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC7aac821696e54936a6633aa5c39380d5-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC7c6b52fd7bb447bdaf8ed06f81daa087-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC7c6b52fd7bb447bdaf8ed06f81daa087-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC7cf6acadb0ed478fbc1d1ebe6d1c420d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC7cf6acadb0ed478fbc1d1ebe6d1c420d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC809d6f970cb4497da61e75f1aa913b1d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC809d6f970cb4497da61e75f1aa913b1d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC834ae25644634700a7a4345c3e92e279-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC834ae25644634700a7a4345c3e92e279-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC8748f54cf3904c938ad7c6d2fd6209af-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC8748f54cf3904c938ad7c6d2fd6209af-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC89d5c2d055144c4c8ba9d26ef97c8203-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC89d5c2d055144c4c8ba9d26ef97c8203-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC8b0eb75e51ea481fa0ff71716b5cc135-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC8b0eb75e51ea481fa0ff71716b5cc135-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC9adf123c2cc04f8ba5c39dc416cb75f1-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC9adf123c2cc04f8ba5c39dc416cb75f1-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RC9c6bae22e35349f9a823a24bcb2a135a-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RC9c6bae22e35349f9a823a24bcb2a135a-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCa2258049054d4870a22736f4a43f002d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCa2258049054d4870a22736f4a43f002d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCb3a5de44b8484f4c84e5178e716dbd6c-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCb3a5de44b8484f4c84e5178e716dbd6c-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCb5c03541c6ed42768b30e03dcd18aa1d-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCb5c03541c6ed42768b30e03dcd18aa1d-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCb9bde75e24e6497295f27d76622500d5-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCb9bde75e24e6497295f27d76622500d5-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCbf4e9166e4564cd99c48780be774cc6b-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCbf4e9166e4564cd99c48780be774cc6b-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCca07c16a0e7749908c3468d0b4eb3841-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCca07c16a0e7749908c3468d0b4eb3841-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCd1583fc0455c404eaeca519e6e019405-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCd1583fc0455c404eaeca519e6e019405-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCdc281bcd40f64560be3e7dd20eb2d4e4-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCdc281bcd40f64560be3e7dd20eb2d4e4-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCddd2f7b234e349d2b142b1b54c9adfb0-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCddd2f7b234e349d2b142b1b54c9adfb0-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCe19b47e50be54cf0a1b125692f4a0f32-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCe19b47e50be54cf0a1b125692f4a0f32-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCe5230679108b4f1db27a069d630df080-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCe5230679108b4f1db27a069d630df080-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCef112336d7674d58befc2bd07ef1cdbd-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCef112336d7674d58befc2bd07ef1cdbd-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCf57470b27c1c499396eefc3b348a2477-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCf57470b27c1c499396eefc3b348a2477-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\RCf836ea807c8e4a988ae7c08ca99d2872-source.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\RCf836ea807c8e4a988ae7c08ca99d2872-source.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\VisitorAPI.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\VisitorAPI.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\YiMnlwYAPK-5JOvV4HgQVh4BjdfeuDlm7M1GgLf3u0w.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\YiMnlwYAPK-5JOvV4HgQVh4BjdfeuDlm7M1GgLf3u0w.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\account.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\account.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\activityi(1).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\activityi(1).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\activityi(2).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\activityi(2).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\activityi(3).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\activityi(3).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\activityi(4).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\activityi(4).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\activityi.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\activityi.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\aksb.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\aksb.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\analytics.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\analytics.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\anchor.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\anchor.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\api.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\api.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\app.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\app.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\assist.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\assist.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\at.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\at.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\auto-replenish.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\auto-replenish.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\badge-app-store.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\badge-app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\badge-google-play.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\badge-google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\bat.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\bat.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\beauty-traits.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\beauty-traits.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\bframe.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\bframe.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\branch-latest.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\branch-latest.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\braze.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\braze.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\ca.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\ca.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\cc-outline-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\cc-outline-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\cc-outline.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\cc-outline.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\community_gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\community_gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\community_groups.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\community_groups.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\community_home.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\community_home.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\conv_v3.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\conv_v3.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\core.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\core.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\custom.min.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\donotsell-extended.min.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\donotsell-extended.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\donotsell-manager-extended.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\donotsell-manager-extended.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\donotsell-manager.min.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\donotsell-manager.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\donotsell.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\donotsell.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\dsr-controller.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\dsr-controller.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\embed.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\embed.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\events.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\events.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(1).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(1).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(10).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(10).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(11).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(11).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(12).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(12).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(2).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(2).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(3).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(3).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(4).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(4).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(5).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(5).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(6).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(6).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(7).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(7).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(8).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(8).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f(9).txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f(9).txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\f.txt",
+      "PackagePath": "staticwebassets\\images\\product3_files\\f.txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\facebook-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\facebook-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\fbevents.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\fbevents.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\find-store.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\find-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\flyoutmenu_events.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\flyoutmenu_events.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\flyoutmenu_makeup.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\flyoutmenu_makeup.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\flyoutmenu_skincare.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\flyoutmenu_skincare.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\flyoutmenu_waxing.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\flyoutmenu_waxing.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\fp.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\fp.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\fp.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\fp.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\frontend-framework.js.bundle",
+      "PackagePath": "staticwebassets\\images\\product3_files\\frontend-framework.js.bundle"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\generic1719444483773.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\generic1719444483773.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\heart.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\heart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\i.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\i.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\ig.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\ig.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\ig.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\ig.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\index.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\index.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\index.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\inside.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\inside.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\instagram-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\instagram-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\jJzA",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(1)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(2)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(3)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(4)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(5)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\js(6)",
+      "PackagePath": "staticwebassets\\images\\product3_files"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\launch-1aafb95a572f.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\launch-1aafb95a572f.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\logo-afterpay.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\logo-afterpay.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\logo-insider.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\logo-insider.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\logo-klarna.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\logo-klarna.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\logo-paypal.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\logo-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\main.f74ed22b.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\main.f74ed22b.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\main.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\main.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\me-active.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\me-active.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\me32.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\me32.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\opt-out.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\opt-out.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\p.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\p.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pinterest-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pinterest-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(1).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(1).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(2).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(2).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(3).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(3).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(4).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(4).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(5).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(5).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(6).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(6).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(7).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(7).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(8).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(8).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel(9).gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel(9).gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel.gif",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel.gif"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixel.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixel.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\pixlee_widget_1_0_0.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\pixlee_widget_1_0_0.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\placeholder.png",
+      "PackagePath": "staticwebassets\\images\\product3_files\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\play-sm.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\play-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\play.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\priority.bundle.B6CoriginmasterD20240618212511.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\priority.bundle.B6CoriginmasterD20240618212511.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\recaptcha__en.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\recaptcha__en.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\recommendations.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\recommendations.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\reservations.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\reservations.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\rewards-bazaar.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\rewards-bazaar.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2113033+sw.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2113033+sw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2362168-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2362168-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2366524-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2366524-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169+sw.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169+sw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169-av-01-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169-av-01-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169-av-02-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169-av-02-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169-av-03-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169-av-03-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169-main-zoom(1).jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169-main-zoom(1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2385169-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2385169-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2700938-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2700938-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2716785-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2716785-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\s2740934-main-zoom.jpg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\s2740934-main-zoom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\saved_resource(1).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\saved_resource(1).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\saved_resource(2).html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\saved_resource(2).html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\saved_resource.html",
+      "PackagePath": "staticwebassets\\images\\product3_files\\saved_resource.html"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\scevent.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\scevent.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\script.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\script.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sdk.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sdk.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sec-4-5.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sec-4-5.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sec-cpt-4-5.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sec-cpt-4-5.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sephora-one-tag.min.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sephora-one-tag.min.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sephora.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sephora.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sephora_L16704.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sephora_L16704.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\sms-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\sms-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\snapchat-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\snapchat-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\styles__ltr.css",
+      "PackagePath": "staticwebassets\\images\\product3_files\\styles__ltr.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\subscription.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\subscription.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\tiktok-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\tiktok-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\token_create.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\token_create.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\track.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\track.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\twitter-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\twitter-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\us.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\us.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\uwt.js.download",
+      "PackagePath": "staticwebassets\\images\\product3_files\\uwt.js.download"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product3_files\\youtube-ko.svg",
+      "PackagePath": "staticwebassets\\images\\product3_files\\youtube-ko.svg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product4.png",
+      "PackagePath": "staticwebassets\\images\\product4.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product5.png",
+      "PackagePath": "staticwebassets\\images\\product5.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product6.png",
+      "PackagePath": "staticwebassets\\images\\product6.png"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product7.jpg",
+      "PackagePath": "staticwebassets\\images\\product7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\images\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\product8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Verica\\Downloads\\MakeupShop\\MakeupShop\\MakeupShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MakeupShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MakeupShop.props",
+      "PackagePath": "build\\MakeupShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MakeupShop.props",
+      "PackagePath": "buildMultiTargeting\\MakeupShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MakeupShop.props",
+      "PackagePath": "buildTransitive\\MakeupShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
